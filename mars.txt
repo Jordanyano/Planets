@@ -5,3 +5,4 @@ Wolfman: Two moons may be a problem for a werewolf.
 The mummy will appreciate the cool, dry air.
 
 Here is a change that was made in the cloud!
+This edit was made locally
